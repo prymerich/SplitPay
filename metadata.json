@@ -1,0 +1,6 @@
+{
+  "name": "SplitBay",
+  "description": "Sistem informasi patungan online (split bill) modern untuk memudahkan kasir membuat tagihan, dan kelompok pembayar membagi tagihan secara mandiri dengan fitur auto-balancing serta simulasi webhook payment gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

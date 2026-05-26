@@ -1,0 +1,480 @@
+{
+  "bills": [
+    {
+      "id": "bill-1779777661547",
+      "code": "BAY-8458",
+      "title": "Ya gitu",
+      "description": "gitu aja",
+      "totalAmount": 135000,
+      "items": [
+        {
+          "id": "csh-itm-1779777661546-0",
+          "name": "Sate Ayam Madura",
+          "price": 35000,
+          "quantity": 3
+        },
+        {
+          "id": "csh-itm-1779777661546-1",
+          "name": "Es Teh Manis Selasih",
+          "price": 10000,
+          "quantity": 3
+        }
+      ],
+      "status": "SHARING",
+      "contributors": [],
+      "createdAt": "2026-05-26T06:41:01.548Z"
+    },
+    {
+      "id": "bill-1779776970529",
+      "code": "BAY-5935",
+      "title": "eyeyeyteyy",
+      "description": "etyeyer",
+      "totalAmount": 334941,
+      "items": [
+        {
+          "id": "csh-itm-1779776970527-0",
+          "name": "Sate Ayam Madura",
+          "price": 35000,
+          "quantity": 2
+        },
+        {
+          "id": "csh-itm-1779776970527-1",
+          "name": "Es Teh Manis Selasih",
+          "price": 10000,
+          "quantity": 2
+        },
+        {
+          "id": "csh-itm-1779776970527-2",
+          "name": "Gacoan",
+          "price": 56053,
+          "quantity": 1
+        },
+        {
+          "id": "csh-itm-1779776970527-3",
+          "name": "Wawwww",
+          "price": 188888,
+          "quantity": 1
+        }
+      ],
+      "status": "LOCKED",
+      "contributors": [
+        {
+          "id": "cnt-177977698275898",
+          "name": "Madison",
+          "shareAmount": 108315,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        },
+        {
+          "id": "cnt-177977750487854",
+          "name": "Maydison",
+          "shareAmount": 58313,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        },
+        {
+          "id": "cnt-177977751315839",
+          "name": "Madyson",
+          "shareAmount": 168313,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        }
+      ],
+      "createdAt": "2026-05-26T06:29:30.529Z"
+    },
+    {
+      "id": "bill-1779775056107",
+      "code": "BAY-5517",
+      "title": "Gacoan",
+      "description": "apa kek",
+      "totalAmount": 190000,
+      "items": [
+        {
+          "id": "csh-itm-1779775055849-0",
+          "name": "Sate Ayam Madura",
+          "price": 35000,
+          "quantity": 2
+        },
+        {
+          "id": "csh-itm-1779775055849-1",
+          "name": "Es Teh Manis Selasih",
+          "price": 10000,
+          "quantity": 2
+        },
+        {
+          "id": "csh-itm-1779775055849-2",
+          "name": "Mie",
+          "price": 100000,
+          "quantity": 1
+        }
+      ],
+      "status": "LOCKED",
+      "contributors": [
+        {
+          "id": "cnt-177977509971268",
+          "name": "Kin",
+          "shareAmount": 63334,
+          "paymentStatus": "PAID",
+          "paidAt": "2026-05-26T06:02:30.741Z",
+          "transactionId": "TX-HOOK-100568"
+        },
+        {
+          "id": "cnt-177977511212552",
+          "name": "Richad",
+          "shareAmount": 63333,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        },
+        {
+          "id": "cnt-177977512591287",
+          "name": "Gusde",
+          "shareAmount": 63333,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        }
+      ],
+      "createdAt": "2026-05-26T05:57:36.107Z"
+    },
+    {
+      "id": "bill-sample-completed",
+      "code": "BAY-7788",
+      "title": "Patungan Futsal Senin Malam",
+      "description": "Sewa lapangan dan air mineral bersama tim Futsal Komunitas",
+      "totalAmount": 220000,
+      "items": [
+        {
+          "id": "itm8",
+          "name": "Sewa Lapangan Futsal 2 Jam",
+          "price": 180000,
+          "quantity": 1
+        },
+        {
+          "id": "itm9",
+          "name": "Air Mineral Dus AirDingin",
+          "price": 40000,
+          "quantity": 1
+        }
+      ],
+      "status": "COMPLETED",
+      "createdAt": "2026-05-24T16:06:38.165Z",
+      "contributors": [
+        {
+          "id": "c1",
+          "name": "Ahmad",
+          "shareAmount": 60000,
+          "paymentStatus": "PAID",
+          "paidAt": "2026-05-24T17:06:38.165Z"
+        },
+        {
+          "id": "c2",
+          "name": "Budi",
+          "shareAmount": 60000,
+          "paymentStatus": "PAID",
+          "paidAt": "2026-05-24T18:06:38.165Z"
+        },
+        {
+          "id": "c3",
+          "name": "Chandra",
+          "shareAmount": 50000,
+          "paymentStatus": "PAID",
+          "paidAt": "2026-05-24T19:06:38.165Z"
+        },
+        {
+          "id": "c4",
+          "name": "Deni",
+          "shareAmount": 50000,
+          "paymentStatus": "PAID",
+          "paidAt": "2026-05-24T19:06:38.165Z"
+        }
+      ]
+    },
+    {
+      "id": "bill-sample-sharing",
+      "code": "BAY-4040",
+      "title": "Makan Keluarga di Saung Hijau",
+      "description": "Patungan makan bersama keluarga besar setelah acara arisan",
+      "totalAmount": 350000,
+      "items": [
+        {
+          "id": "itm1",
+          "name": "Sate Ayam Madura Jumbo x3",
+          "price": 42000,
+          "quantity": 3
+        },
+        {
+          "id": "itm2",
+          "name": "Es Teh Manis Kelapa x4",
+          "price": 12000,
+          "quantity": 4
+        },
+        {
+          "id": "itm3",
+          "name": "Nasi Putih Organik x4",
+          "price": 8000,
+          "quantity": 4
+        },
+        {
+          "id": "itm4",
+          "name": "Gurame Bakar Sambal Hijau",
+          "price": 110000,
+          "quantity": 1
+        },
+        {
+          "id": "itm5",
+          "name": "Service Charge & PPN 10%",
+          "price": 34000,
+          "quantity": 1
+        }
+      ],
+      "status": "SHARING",
+      "createdAt": "2026-05-25T14:06:38.165Z",
+      "contributors": [
+        {
+          "id": "c5",
+          "name": "Farhan (Organizer)",
+          "shareAmount": 10,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        },
+        {
+          "id": "c6",
+          "name": "Gita",
+          "shareAmount": 90000,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        },
+        {
+          "id": "c7",
+          "name": "Hadi",
+          "shareAmount": 100000,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        }
+      ]
+    },
+    {
+      "id": "bill-sample-kado",
+      "code": "BAY-9090",
+      "title": "Kado Ultah Siska Juara",
+      "description": "Patungan beli kado headset ANC modern untuk kejutan Siska",
+      "totalAmount": 350000,
+      "items": [
+        {
+          "id": "itm6",
+          "name": "Kado Headset Bluetooth ANC",
+          "price": 320000,
+          "quantity": 1
+        },
+        {
+          "id": "itm7",
+          "name": "Kartu Ucapan & Pita Bungkus",
+          "price": 30000,
+          "quantity": 1
+        }
+      ],
+      "status": "LOCKED",
+      "createdAt": "2026-05-25T16:01:38.165Z",
+      "contributors": [
+        {
+          "id": "c8",
+          "name": "Rendi",
+          "shareAmount": 150000,
+          "paymentStatus": "PAID",
+          "paidAt": "2026-05-25T16:04:58.165Z",
+          "transactionId": "TX-SEMI-881273"
+        },
+        {
+          "id": "c9",
+          "name": "Santi",
+          "shareAmount": 100000,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        },
+        {
+          "id": "c10",
+          "name": "Toni",
+          "shareAmount": 100000,
+          "paymentStatus": "PENDING",
+          "paidAt": null
+        }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1779777661548",
+      "billId": "bill-1779777661547",
+      "billTitle": "Ya gitu",
+      "message": "Tagihan baru 'Ya gitu' dibuat oleh Kasir dengan total Rp 135.000. Kode: BAY-8458",
+      "type": "INFO",
+      "timestamp": "2026-05-26T06:41:01.567Z"
+    },
+    {
+      "id": "notif-1779777592805",
+      "billId": "bill-1779776970529",
+      "billTitle": "eyeyeyteyy",
+      "message": "Konstruksi patungan 'eyeyeyteyy' berhasil dikunci! Rincian tagihan dipecah menjadi 3 invoice terpisah siap bayar.",
+      "type": "INFO",
+      "timestamp": "2026-05-26T06:39:52.805Z"
+    },
+    {
+      "id": "notif-1779777513159",
+      "billId": "bill-1779776970529",
+      "billTitle": "eyeyeyteyy",
+      "message": "Madyson bergabung ke patungan 'eyeyeyteyy'.",
+      "type": "JOIN",
+      "timestamp": "2026-05-26T06:38:33.159Z"
+    },
+    {
+      "id": "notif-1779777504879",
+      "billId": "bill-1779776970529",
+      "billTitle": "eyeyeyteyy",
+      "message": "Maydison bergabung ke patungan 'eyeyeyteyy'.",
+      "type": "JOIN",
+      "timestamp": "2026-05-26T06:38:24.879Z"
+    },
+    {
+      "id": "notif-1779776982758",
+      "billId": "bill-1779776970529",
+      "billTitle": "eyeyeyteyy",
+      "message": "Madison bergabung ke patungan 'eyeyeyteyy'.",
+      "type": "JOIN",
+      "timestamp": "2026-05-26T06:29:42.758Z"
+    },
+    {
+      "id": "notif-1779776970530",
+      "billId": "bill-1779776970529",
+      "billTitle": "eyeyeyteyy",
+      "message": "Tagihan baru 'eyeyeyteyy' dibuat oleh Kasir dengan total Rp 334.941. Kode: BAY-5935",
+      "type": "INFO",
+      "timestamp": "2026-05-26T06:29:30.545Z"
+    },
+    {
+      "id": "notif-pay-1779775350745",
+      "billId": "bill-1779775056107",
+      "billTitle": "Gacoan",
+      "message": "🔔 Pembayaran Rp 63.334 terverifikasi otomatis dari Kin via Webhook (Virtual Account Mandiri).",
+      "type": "PAYMENT_RECEIVED",
+      "timestamp": "2026-05-26T06:02:30.757Z"
+    },
+    {
+      "id": "notif-1779775306998",
+      "billId": "bill-1779775056107",
+      "billTitle": "Gacoan",
+      "message": "Konstruksi patungan 'Gacoan' berhasil dikunci! Rincian tagihan dipecah menjadi 3 invoice terpisah siap bayar.",
+      "type": "INFO",
+      "timestamp": "2026-05-26T06:01:46.998Z"
+    },
+    {
+      "id": "notif-1779775125928",
+      "billId": "bill-1779775056107",
+      "billTitle": "Gacoan",
+      "message": "Gusde bergabung ke patungan 'Gacoan'.",
+      "type": "JOIN",
+      "timestamp": "2026-05-26T05:58:45.928Z"
+    },
+    {
+      "id": "notif-1779775112126",
+      "billId": "bill-1779775056107",
+      "billTitle": "Gacoan",
+      "message": "Richad bergabung ke patungan 'Gacoan'.",
+      "type": "JOIN",
+      "timestamp": "2026-05-26T05:58:32.126Z"
+    },
+    {
+      "id": "notif-1779775099716",
+      "billId": "bill-1779775056107",
+      "billTitle": "Gacoan",
+      "message": "Kin bergabung ke patungan 'Gacoan'.",
+      "type": "JOIN",
+      "timestamp": "2026-05-26T05:58:19.716Z"
+    },
+    {
+      "id": "notif-1779775056111",
+      "billId": "bill-1779775056107",
+      "billTitle": "Gacoan",
+      "message": "Tagihan baru 'Gacoan' dibuat oleh Kasir dengan total Rp 190.000. Kode: BAY-5517",
+      "type": "INFO",
+      "timestamp": "2026-05-26T05:57:36.324Z"
+    },
+    {
+      "id": "n-1",
+      "billId": "bill-sample-completed",
+      "billTitle": "Patungan Futsal Senin Malam",
+      "message": "Patungan 'Patungan Futsal Senin Malam' lunas sepenuhnya! Rp 220.000 terkumpul.",
+      "type": "BILL_COMPLETED",
+      "timestamp": "2026-05-24T19:06:38.165Z"
+    },
+    {
+      "id": "n-2",
+      "billId": "bill-sample-kado",
+      "billTitle": "Kado Ultah Siska Juara",
+      "message": "Pembayaran Rp 150.000 terverifikasi dari Rendi via Webhook.",
+      "type": "PAYMENT_RECEIVED",
+      "timestamp": "2026-05-25T16:04:58.165Z"
+    }
+  ],
+  "histories": [
+    {
+      "id": "tx-hist-17797753507416",
+      "billId": "bill-1779775056107",
+      "billTitle": "Gacoan",
+      "contributorName": "Kin",
+      "amount": 63334,
+      "status": "SUCCESS",
+      "timestamp": "2026-05-26T06:02:30.741Z",
+      "paymentMethod": "Virtual Account Mandiri"
+    },
+    {
+      "id": "tx-hist-1",
+      "billId": "bill-sample-completed",
+      "billTitle": "Patungan Futsal Senin Malam",
+      "contributorName": "Ahmad",
+      "amount": 60000,
+      "status": "SUCCESS",
+      "timestamp": "2026-05-24T17:06:38.165Z",
+      "paymentMethod": "QRIS Mandiri"
+    },
+    {
+      "id": "tx-hist-2",
+      "billId": "bill-sample-completed",
+      "billTitle": "Patungan Futsal Senin Malam",
+      "contributorName": "Budi",
+      "amount": 60000,
+      "status": "SUCCESS",
+      "timestamp": "2026-05-24T18:06:38.165Z",
+      "paymentMethod": "GoPay"
+    },
+    {
+      "id": "tx-hist-3",
+      "billId": "bill-sample-completed",
+      "billTitle": "Patungan Futsal Senin Malam",
+      "contributorName": "Chandra",
+      "amount": 50000,
+      "status": "SUCCESS",
+      "timestamp": "2026-05-24T19:06:38.165Z",
+      "paymentMethod": "ShopeePay"
+    },
+    {
+      "id": "tx-hist-4",
+      "billId": "bill-sample-completed",
+      "billTitle": "Patungan Futsal Senin Malam",
+      "contributorName": "Deni",
+      "amount": 50000,
+      "status": "SUCCESS",
+      "timestamp": "2026-05-24T19:06:38.165Z",
+      "paymentMethod": "OVO"
+    },
+    {
+      "id": "tx-hist-5",
+      "billId": "bill-sample-kado",
+      "billTitle": "Kado Ultah Siska Juara",
+      "contributorName": "Rendi",
+      "amount": 150000,
+      "status": "SUCCESS",
+      "timestamp": "2026-05-25T16:04:58.165Z",
+      "paymentMethod": "QRIS BCA"
+    }
+  ],
+  "users": []
+}
